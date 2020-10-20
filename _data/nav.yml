@@ -1,8 +1,12 @@
 items:
-- url: /
-  name: Home
-  icon_class: fa fa-home fa-lg
+  - url: /
+    name: Home
+    icon_class: fa fa-home fa-lg
 
+  - url: /pre-requisitos/
+    name: Pre-requisitos
+    icon_class: fas fa-calendar-alt
+  
   #- url: /schedule/
   #  name: Schedule
   #  icon_class: fas fa-calendar-alt
