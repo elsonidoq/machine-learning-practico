@@ -1,6 +1,7 @@
 # Site settings
 course_name: Machine Learning Practico
-course_description: "Tomamos de punto de partida un caso de negocio y lo utilizamos de excusa para ver teoría de Machine Learning, algunas técnicas, metodología y data products"
+course_description: "En este curso tomamos un problema y vamos a intentar solucionarlo utilizando Machine Learning. Intentarlo nos va a obligar a ver algunos temas que considero relevantes para la aplicación de Machine Learning, desde un punto de vista teórico, práctico y metodológico."
+
 course_semester: "2020"
 
 baseurl: "/machine-learning-practico" # the subpath of your site, e.g. /blog/
