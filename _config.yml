@@ -50,3 +50,5 @@ defaults:
       type: "assignments"
     values:
       layout: "assignment"
+
+theme: jekyll-theme-slate
