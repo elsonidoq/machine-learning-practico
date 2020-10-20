@@ -3,7 +3,7 @@ course_name: Machine Learning Practico
 course_description: "Tomamos de punto de partida un caso de negocio y lo utilizamos de excusa para ver teoría de Machine Learning, algunas técnicas, metodología y data products"
 course_semester: "2020"
 
-baseurl: "/jekyll-course-website-template" # the subpath of your site, e.g. /blog/
+baseurl: "/machine-learning-practico" # the subpath of your site, e.g. /blog/
 url: "http://elsonidoq.github.io/" # the base hostname & protocol for your site
 
 schoolname: ""
