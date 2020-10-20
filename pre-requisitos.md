@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Pre-requisitos
 permalink: /pre-requisitos/
 ---
