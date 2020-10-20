@@ -9,12 +9,10 @@ layout: default
     {% include announcements.html %}
     <br />
 
-    <h2>Descripción del curso</h2>
+    <h2>Descripcion del curso</h2>
     <p>{{ site.course_description }}</p>
     
     {{ content }}
-
-    {% if site.data.previous_offering and site.data.previous_offering.offerings and site.data.previous_offering.offerings.size > 0 %}
 
     <br>
     <div>
@@ -25,7 +23,7 @@ layout: default
                 <p>{{site.data.people.instructor.name}}</p>
             </div> -->
 
-	<div class="profile-pic-gallary ">
+            <div class="profile-pic-gallary ">
                 <h2>Instructor</h2>
                 {% for ins in site.data.people.instructors %}
                 <div class="image--cover-container">
@@ -39,5 +37,6 @@ layout: default
                 {% endfor %}
             </div>
         </div>
+
     </div>
 </div>
