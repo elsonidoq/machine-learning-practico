@@ -10,10 +10,7 @@ schoolname: ""
 schoolurl: ""
 twitter_username: ideasrapidas 
 
-address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+address: ""
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
@@ -35,11 +32,11 @@ dateformat: "%m/%d/%Y"
 future: true
 collections:
     events:
-        output: true
+        output: false
     lectures:
-        output: true
+        output: false
     assignments:
-        output: true
+        output: false
     announcements:
         output: false
 
