@@ -1,5 +1,7 @@
 ---
 layout: lectures
-title: Lectures
-permalink: /lectures/
+title: Materiales
+permalink: /materiales/
 ---
+
+Coming soon ^J^

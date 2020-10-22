@@ -1,5 +1,8 @@
 ---
 layout: assignments
-title: Assignments
-permalink: /assignments/
+title: Ejercicios
+permalink: /ejercicios/
 ---
+Coming soon ^J^
+
+
