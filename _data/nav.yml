@@ -11,8 +11,8 @@ items:
     name: Materiales
     icon_class: fas fa-book-reader
   
-  - url: /ejercicios/
-    name: Ejercicios
+  - url: /videos/
+    name: Videos
     icon_class: fas fa-user-graduate
   #
   #- url: /project/
