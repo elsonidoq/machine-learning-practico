@@ -14,6 +14,10 @@ items:
   - url: /videos/
     name: Videos
     icon_class: fas fa-user-graduate
+
+  - url: /horarios/
+    name: Horarios
+    icon_class: fas fa-user-graduate
   #
   #- url: /project/
   #  name: Project

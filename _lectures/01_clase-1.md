@@ -1,8 +1,9 @@
 ---
 type: lecture
-date: 2018-09-16T8:00:00+4:30
+date: 2020-11-03T19:00:00-3
 title: Clase 1. Data products, aprendizaje supervisado, metodologia
 thumbnail: /static_files/presentations/clase-1.jpg
+hide_from_announcments: true
 links: 
     - url: https://docs.google.com/presentation/d/10G-qAtPrtmdLTrY6qIMdl5R2yPcB3U51wGPA6jotbJM/edit
       name: slides
