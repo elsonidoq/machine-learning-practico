@@ -1,4 +1,5 @@
 ---
+modalidad: Práctica
 type: lecture
 date: 2020-11-05t19:00:00-3
 title: Práctico 1. preguntas y respuestas, decision tree, regresion logistica, metricas en dataset de juguete. exploración de los datos del curso

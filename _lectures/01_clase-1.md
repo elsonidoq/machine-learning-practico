@@ -1,4 +1,5 @@
 ---
+modalidad: Teórica
 type: lecture
 date: 2020-11-03T19:00:00-3
 title: Clase 1. Data products, aprendizaje supervisado, metodologia
