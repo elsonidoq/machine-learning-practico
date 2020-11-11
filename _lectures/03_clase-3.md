@@ -18,3 +18,4 @@ links:
 **Lecturas sugeridas:**
 - [Capitulo de ML del libro de Goodfellow](https://www.deeplearningbook.org/contents/ml.html)
 - [Medium sobre bias / variance trade off](https://towardsdatascience.com/mse-and-bias-variance-decomposition-77449dd2ff55)
+- [Mi charla de regularización](https://youtu.be/vvCbPrqXDTQ?t=1415)
