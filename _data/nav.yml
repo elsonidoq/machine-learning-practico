@@ -16,7 +16,7 @@ items:
     icon_class: fas fa-user-graduate
 
   - url: /horarios/
-    name: Horarios
+    name: Horarios y material
     icon_class: fas fa-user-graduate
   #
   #- url: /project/
