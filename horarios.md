@@ -1,5 +1,5 @@
 ---
 layout: schedule
-title: Horarios
+title: Horarios y material
 permalink: /horarios/
 ---
