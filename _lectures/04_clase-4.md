@@ -3,7 +3,7 @@ modalidad: Práctica
 type: lecture
 date: 2020-11-12t19:00:00-3
 title: Práctico 2. Preguntas y respuestas, revisitamos lagrange, bias/variance y regularización. Grid Search, SMBO y AutoML en un notebook. Baseline fit de IMDB
-hide_from_announcments: false
+hide_from_announcments: true
 thumbnail: /_images/logo.png
 links: 
     - url: https://docs.google.com/presentation/d/1_1Sd22e36bObRPkH0u2P_U8035BjzTDQmr1M-Ukj9DA/edit?usp=sharing
