@@ -15,3 +15,6 @@ links:
     - url: https://docs.google.com/document/d/1Ly3Q0bl0VnCTyGfJNGINGkuciz9mEA-M6_HtIK9gQwU/edit?usp=sharing
       name: guías
 ---
+**Lecturas sugeridas**
+- [Blogpost explicando Word2Vec](https://lilianweng.github.io/lil-log/2017/10/15/learning-word-embedding.html)
+
