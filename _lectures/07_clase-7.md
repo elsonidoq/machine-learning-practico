@@ -19,4 +19,5 @@ links:
 - [Course of dimensionality](https://www.visiondummy.com/2014/04/curse-dimensionality-affect-classification/)
 - [Papers de fasttext](https://fasttext.cc/)
 - [Explicacion de ULMFiT](https://nlp.fast.ai/classification/2018/05/15/introducing-ulmfit.html)
+- [Tutorial de ULMFiT](https://blog.datascienceheroes.com/spam-detection-using-fastai-ulmfit-part-1-language-model/)
 - [Por qué los transformers son mejores que las redes recurrentes para capturar long term relations](https://www.youtube.com/watch?v=iDulhoQ2pro)
