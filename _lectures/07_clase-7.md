@@ -18,6 +18,7 @@ links:
 **Lecturas sugeridas**
 - [Course of dimensionality](https://www.visiondummy.com/2014/04/curse-dimensionality-affect-classification/)
 - [Collocations](https://nlp.stanford.edu/fsnlp/promo/colloc.pdf)
+- [Dummy encodding vs one hot encodding](https://towardsdatascience.com/one-hot-encoding-multicollinearity-and-the-dummy-variable-trap-b5840be3c41a)
 - [Papers de fasttext](https://fasttext.cc/)
 - [Explicacion de ULMFiT](https://nlp.fast.ai/classification/2018/05/15/introducing-ulmfit.html)
 - [Tutorial de ULMFiT](https://blog.datascienceheroes.com/spam-detection-using-fastai-ulmfit-part-1-language-model/)
