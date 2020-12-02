@@ -3,6 +3,10 @@ layout: page
 title: Videos
 permalink: /videos/
 ---
+## Clase práctica 4
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qssh2DszXcE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## Clase teórica 4
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dcLLuFKVBIA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
