@@ -4,7 +4,7 @@ type: lecture
 date: 2020-11-26t19:00:00-3
 title: Clase 4 NLP. tf-idf, word embeddings, Word2Vec, FastText, transfer learning
 thumbnail: /_images/logo.png
-hide_from_announcments: false
+hide_from_announcments: true
 links: 
     - url: https://docs.google.com/presentation/d/1nn11_rg2ATnyPcKJP3i4PeVeFIVRi9PaK56jxttHXv8/edit?usp=sharing
       name: slides
